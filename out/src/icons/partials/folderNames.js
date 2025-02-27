@@ -1,0 +1,37 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", {
+  value: true,
+});
+exports.folderNames = undefined;
+exports.folderNames = {
+  nginx: "_folder_nginx",
+  ci: "_folder_ci",
+  test: "_folder_test",
+  tests: "_folder_test",
+  tst: "_folder_test",
+  __test__: "_folder_test",
+  __tests__: "_folder_test",
+  node_modules: "_folder_node",
+  assets: "_folder_assets",
+  static: "_folder_assets",
+  public: "_folder_assets",
+  js: "_folder_js",
+  css: "_folder_css",
+  style: "_folder_style",
+  styles: "_folder_style",
+  sass: "_folder_sass",
+  scss: "_folder_sass",
+  src: "_folder_src",
+  source: "_folder_src",
+  images: "_folder_images",
+  ".git": "_folder_git",
+  ".github": "_folder_github",
+  ".vscode": "_folder_vscode",
+  ".gulp": "_folder_gulp",
+  gulp: "_folder_gulp",
+  build: "_folder_dist",
+  dist: "_folder_dist",
+  out: "_folder_dist",
+  grpc: "_folder_grpc",
+  GRPC: "_folder_grpc",
+};
